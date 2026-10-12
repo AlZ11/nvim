@@ -1,4 +1,4 @@
-vim.opt.expandtab = true    -- Converts your Tab key presses into raw spaces
+vim.opt.expandtab = false    -- Converts your Tab key presses into raw spaces
 vim.opt.shiftwidth = 4      -- Sets the size of auto-indents to 4 spaces
 vim.opt.tabstop = 4         -- Makes existing Tab characters look like 4 spaces wide
 vim.opt.softtabstop = 4     -- Makes backspacing delete 4 spaces at once like a real Tab

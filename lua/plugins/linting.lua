@@ -6,8 +6,6 @@ return {
 
     -- Assign clang-tidy to C and C++
     lint.linters_by_ft = {
-      c = { "clangtidy" },
-      cpp = { "clangtidy" },
     }
 
     -- Trigger linting on save and when entering insert/normal mode
